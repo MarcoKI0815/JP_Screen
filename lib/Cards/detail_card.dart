@@ -2,7 +2,6 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:jp_screen_app/Buttons/elevated_button.dart';
 import 'package:flutter_sficon/flutter_sficon.dart';
-
 import '../Buttons/button.dart';
 import '../Widgets/ingredients_widget.dart';
 import '../Widgets/reviews_widget.dart';

@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'package:flutter_sficon/flutter_sficon.dart';
-
 import '../Buttons/category_buttons.dart';
 import '../Cards/card_big.dart';
 import '../Cards/card_small.dart';

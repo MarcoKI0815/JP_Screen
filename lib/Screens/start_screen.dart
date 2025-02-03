@@ -1,9 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-
 import '../Buttons/elevated_button.dart';
 import 'home_screen.dart';
-
 
 class StartScreen extends StatelessWidget {
   const StartScreen({super.key});
